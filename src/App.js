@@ -36,7 +36,7 @@ function App() {
   }, []);
  
   return (
-    <Router>
+     <BrowserRouter basename="//React-Portfolio">
      {load ? (
         <CandlePreloader />
       ) : (
@@ -53,16 +53,16 @@ function App() {
           />
           <ScrollToTop />
           <Routes>
-            <Route path="/" element={<Home />} />
+            <Route exact path="/React-Portfolio" element={<Home />}></Route>
             
-            <Route path="/about" element={<About />} />
-            <Route path="/resume" element={<Resume />} />
-            <Route path="*" element={<Navigate to="/" />} />
+            <Route path="/about" element={<About />}></Route>
+            <Route path="/resume" element={<Resume />}></Route>
+            <Route path="*" element={<Navigate to="/React-Portfolio" />}></Route>
           </Routes>
           <Footer />
         </div>
       )}
-    </Router>
+    </BrowserRouter>
   );
 }
 
