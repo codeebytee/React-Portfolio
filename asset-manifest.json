@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.828f2b4e.css",
-    "main.js": "/static/js/main.5b438006.js",
-    "static/js/787.7008d89c.chunk.js": "/static/js/787.7008d89c.chunk.js",
-    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Jayantre.pdf": "/static/media/Jayantre.154456ba532061112685.pdf",
-    "static/media/home-bg.png": "/static/media/home-bg.95569e068b39321d92cf.png",
-    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "index.html": "/index.html",
-    "main.828f2b4e.css.map": "/static/css/main.828f2b4e.css.map",
-    "main.5b438006.js.map": "/static/js/main.5b438006.js.map",
-    "787.7008d89c.chunk.js.map": "/static/js/787.7008d89c.chunk.js.map"
+    "main.css": "/https//:/codeebytee,github.io/React-Portfolio/static/css/main.14293255.css",
+    "main.js": "/https//:/codeebytee,github.io/React-Portfolio/static/js/main.04e25550.js",
+    "static/js/787.7008d89c.chunk.js": "/https//:/codeebytee,github.io/React-Portfolio/static/js/787.7008d89c.chunk.js",
+    "static/media/home-main.svg": "/https//:/codeebytee,github.io/React-Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/https//:/codeebytee,github.io/React-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Jayantre.pdf": "/https//:/codeebytee,github.io/React-Portfolio/static/media/Jayantre.154456ba532061112685.pdf",
+    "static/media/home-bg.png": "/https//:/codeebytee,github.io/React-Portfolio/static/media/home-bg.95569e068b39321d92cf.png",
+    "static/media/avatar.svg": "/https//:/codeebytee,github.io/React-Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "index.html": "/https//:/codeebytee,github.io/React-Portfolio/index.html",
+    "main.14293255.css.map": "/https//:/codeebytee,github.io/React-Portfolio/static/css/main.14293255.css.map",
+    "main.04e25550.js.map": "/https//:/codeebytee,github.io/React-Portfolio/static/js/main.04e25550.js.map",
+    "787.7008d89c.chunk.js.map": "/https//:/codeebytee,github.io/React-Portfolio/static/js/787.7008d89c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.828f2b4e.css",
-    "static/js/main.5b438006.js"
+    "static/css/main.14293255.css",
+    "static/js/main.04e25550.js"
   ]
 }
