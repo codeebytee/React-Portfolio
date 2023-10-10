@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/https//:/codeebytee,github.io/React-Portfolio/static/css/main.14293255.css",
-    "main.js": "/https//:/codeebytee,github.io/React-Portfolio/static/js/main.04e25550.js",
+    "main.js": "/https//:/codeebytee,github.io/React-Portfolio/static/js/main.b386b614.js",
     "static/js/787.7008d89c.chunk.js": "/https//:/codeebytee,github.io/React-Portfolio/static/js/787.7008d89c.chunk.js",
     "static/media/home-main.svg": "/https//:/codeebytee,github.io/React-Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/https//:/codeebytee,github.io/React-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
@@ -10,11 +10,11 @@
     "static/media/avatar.svg": "/https//:/codeebytee,github.io/React-Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "index.html": "/https//:/codeebytee,github.io/React-Portfolio/index.html",
     "main.14293255.css.map": "/https//:/codeebytee,github.io/React-Portfolio/static/css/main.14293255.css.map",
-    "main.04e25550.js.map": "/https//:/codeebytee,github.io/React-Portfolio/static/js/main.04e25550.js.map",
+    "main.b386b614.js.map": "/https//:/codeebytee,github.io/React-Portfolio/static/js/main.b386b614.js.map",
     "787.7008d89c.chunk.js.map": "/https//:/codeebytee,github.io/React-Portfolio/static/js/787.7008d89c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14293255.css",
-    "static/js/main.04e25550.js"
+    "static/js/main.b386b614.js"
   ]
 }
